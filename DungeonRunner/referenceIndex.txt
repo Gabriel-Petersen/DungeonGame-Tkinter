@@ -1,0 +1,5 @@
+invisivel: -1
+espaço vazio: 0
+player: 1
+monstro: 2
+saída: 3
